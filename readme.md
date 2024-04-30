@@ -5,5 +5,5 @@ T's & G's,
 
 Jackson
 
-Contact info:
+## Contact info:
  - email: ballewjackson@gmail.com

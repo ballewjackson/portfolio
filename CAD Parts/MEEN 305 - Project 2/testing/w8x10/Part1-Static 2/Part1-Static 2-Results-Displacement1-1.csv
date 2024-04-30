@@ -1,0 +1,9 @@
+Date:  10:38, Wednesday, April 17, 2024
+Model name: Part1
+Study name: Static 2(-Default<As Machined>-)
+Plot type: Static displacement Displacement1 (-Res disp-)
+Result Type: URES 
+
+
+Node  ,Value (mm)  ,X (mm)  ,Y (mm)  ,Z (mm)
+11  ,1.019e+03  ,0.00000000  ,10000.00000000  ,-0.00000000

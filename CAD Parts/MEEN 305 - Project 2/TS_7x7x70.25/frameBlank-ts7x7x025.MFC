@@ -1,0 +1,16 @@
+[StartTime]
+frameBlank-ts7x7x025.MFC=
+[SolverState]
+frameBlank-ts7x7x025.MFC=2
+[MainFrame]
+frameBlank-ts7x7x025.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAHCBAAAAAEDDAAAAAKPBAAAAA
+[ShowMin]
+frameBlank-ts7x7x025.MFC=No
+[SolverType]
+frameBlank-ts7x7x025.MFC=Linear Analysis
+[StudyType]
+frameBlank-ts7x7x025.MFC=0
+[StudyName]
+frameBlank-ts7x7x025.MFC=ts7x7x025
+[Solver]
+frameBlank-ts7x7x025.MFC=Sparse

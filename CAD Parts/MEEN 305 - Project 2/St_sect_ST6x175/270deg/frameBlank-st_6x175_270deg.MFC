@@ -1,0 +1,16 @@
+[StartTime]
+frameBlank-st_6x175_270deg.MFC=
+[SolverState]
+frameBlank-st_6x175_270deg.MFC=2
+[MainFrame]
+frameBlank-st_6x175_270deg.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAHCBAAAAAEDDAAAAAKPBAAAAA
+[ShowMin]
+frameBlank-st_6x175_270deg.MFC=No
+[SolverType]
+frameBlank-st_6x175_270deg.MFC=Linear Analysis
+[StudyType]
+frameBlank-st_6x175_270deg.MFC=0
+[StudyName]
+frameBlank-st_6x175_270deg.MFC=st_6x175_270deg
+[Solver]
+frameBlank-st_6x175_270deg.MFC=Sparse

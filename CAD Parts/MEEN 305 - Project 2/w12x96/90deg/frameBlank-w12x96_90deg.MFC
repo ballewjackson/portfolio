@@ -1,0 +1,16 @@
+[StartTime]
+frameBlank-w12x96_90deg.MFC=
+[SolverState]
+frameBlank-w12x96_90deg.MFC=2
+[MainFrame]
+frameBlank-w12x96_90deg.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAHCBAAAAAEDDAAAAAKPBAAAAA
+[ShowMin]
+frameBlank-w12x96_90deg.MFC=No
+[SolverType]
+frameBlank-w12x96_90deg.MFC=Linear Analysis
+[StudyType]
+frameBlank-w12x96_90deg.MFC=0
+[StudyName]
+frameBlank-w12x96_90deg.MFC=w12x96_90deg
+[Solver]
+frameBlank-w12x96_90deg.MFC=Sparse
